@@ -1,0 +1,17 @@
+alfish.godot-files
+christian-kohler.path-intellisense
+editorconfig.editorconfig
+formulahendry.code-runner
+geequlim.godot-tools
+github.copilot
+github.copilot-chat
+jjkim.gdscript
+josefpihrt-vscode.roslynator
+ms-dotnettools.csdevkit
+ms-dotnettools.csharp
+ms-dotnettools.vscode-dotnet-runtime
+neikeq.godot-csharp-vscode
+selcukermaya.se-csproj-extensions
+streetsidesoftware.code-spell-checker
+visualstudioexptteam.intellicode-api-usage-examples
+visualstudioexptteam.vscodeintellicode

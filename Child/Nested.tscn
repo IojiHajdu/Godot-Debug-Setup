@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bjpjdxsdaovdi"]
+
+[ext_resource type="Script" uid="uid://cdj0pk60x7q68" path="res://Child/Nested.cs" id="1_w5gg4"]
+
+[node name="Nested" type="Node"]
+script = ExtResource("1_w5gg4")

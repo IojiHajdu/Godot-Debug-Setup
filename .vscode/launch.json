@@ -1,0 +1,34 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // Configuration for debugging a Godot game
+            "name": "🕹 Debug Game",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            //Path to your Godot executable
+            "program":"",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+        // Configuration for debugging the current scene in Godot
+        "name": "🎭 Debug Current Scene",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        //Path to your Godot executable
+        "program":"",
+        "args": [
+            "res://${relativeFileDirname}/${fileBasenameNoExtension}.tscn"
+        ],
+
+        "cwd": "${workspaceFolder}",
+        "stopAtEntry": false,
+        "console": "integratedTerminal"
+        },
+    ]
+}
