@@ -1,8 +1,5 @@
 ## Mod Utilizare
 
-#### Godot trebuie deschis primul apoi .vscode, asigurăte de conexiune, trebuie să-ți apară ca și jos. 
-
-![alt text](image-1.png)
 
 #### Configurare Godot Editor
 ![alt text](image.png)
@@ -26,8 +23,17 @@ cat vscode-extensions.txt | xargs -n 1 code --install-extension
 "program": "Programs/Godot/Godot.exe"
 ```
 
-#### Apasă CTRL+SHIFT+D pentru a deschide 'RUN AND DEGUB' aici ai două opțiuni:
-#### Debug Game -- Faci debug la toată aplicația 
-#### Debug Current Scene -- Faci debug la șcena corespunzătoare fișierului .cs selectat
-#### CTRL + F5 pentru a rula opțiunea selectată
-#### ATENȚIE numele șcenelor create trebuie să fie identice cu numele scripturilor altfel debugger-ul nu va putea să o găsească
+#### Godot trebuie deschis primul apoi .vscode, asigurăte de conexiune, trebuie să-ți apară ca și jos. 
+
+![alt text](image-1.png)
+
+#### Debug
+
+Apasă *CTRL+SHIFT+D* pentru a deschide RUN AND DEBUG' aici ai două opțiuni:
+1. Debug Game -- Faci debug la toată aplicația 
+2. Debug Current Scene -- Faci debug la șcena corespunzătoare fișierului .cs selectat
+
+*CTRL + F5* pentru a rula opțiunea selectată
+
+####ATENȚIE 
+Numele șcenelor create trebuie să fie identice cu numele scripturilor altfel debugger-ul nu va putea să o găsească.
