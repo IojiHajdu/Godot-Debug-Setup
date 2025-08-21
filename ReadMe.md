@@ -35,5 +35,8 @@ Apasă *CTRL+SHIFT+D* pentru a deschide RUN AND DEBUG' aici ai două opțiuni:
 
 *CTRL + F5* pentru a rula opțiunea selectată
 
+*CTRL + F9* pentru a pune un punct de debug F10 pentru a trece la următoarea linie din clasă F11 dacă vrei intrii întro metodă din altă clasă.
+*CTRL + F5* pentru a continua.
+
 ####ATENȚIE 
 Numele șcenelor create trebuie să fie identice cu numele scripturilor altfel debugger-ul nu va putea să o găsească.
