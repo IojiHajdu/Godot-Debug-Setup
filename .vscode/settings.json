@@ -1,7 +1,6 @@
 {
     //Path to your Godot executable pune asta în fișiel global de settings.json
-    "godotTools.editorPath.godot4": "/home/ioji/Godot/Godot_v4.4.1-stable_mono_linux.x86_64",
+    "godotTools.editorPath.godot4": "",
     "cSpell.words": [
         "Mathf"
-    ]
-}
+    ] }
